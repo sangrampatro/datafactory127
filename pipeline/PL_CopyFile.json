@@ -1,6 +1,7 @@
 {
 	"name": "PL_CopyFile",
 	"properties": {
+		"description": "copy",
 		"activities": [
 			{
 				"name": "Copy Orders",
